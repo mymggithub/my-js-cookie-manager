@@ -1,2 +1,2 @@
 # my-js-cookie-manager
-Something I create a while to manage cookies easily.
+Something I create a while ago to manage cookies easily.
